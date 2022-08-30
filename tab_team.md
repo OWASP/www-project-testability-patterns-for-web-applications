@@ -1,6 +1,6 @@
 ---
-title: team
-displaytext: team
+title: Team
+displaytext: Team
 layout: null
 tab: true
 order: 2
