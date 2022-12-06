@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Testability Patterns for Web Applications
 tags: home
-level: 0
+level: 2
 type: 
 pitch: TestabiliTy Pattern-driven Web Application Security and Privacy Testing
 
