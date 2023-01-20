@@ -24,6 +24,10 @@ The OWASP project aims to deliver tools and methodologies for:
 - Developers: Better and flexible tools to improve testability, reducing security and privacy risk exposure.
 - Security teams: Better and more flexible security, privacy testing, and AI/ML tools.
 
-## Plan
+## Next Talk: OWASP AppSec Dublin 16th February
+[Luca Compagna](https://owasp2023globalappsecdublin.sched.com/speaker/luca.compagna?iframe=yes&w=100%&sidebar=yes&bg=no) will talk about the project at the next [OWASP AppSec Dublin](https://dublin.globalappsec.org) 
+When: Thursday February 16, 2023 10:30am - 11:30am GMT
+Where: Liffey Meeting Room 2
+
 
 
