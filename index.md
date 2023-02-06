@@ -65,8 +65,9 @@ Future works include the possibility to enable patterns' transformations directl
 [Luca Compagna](https://owasp2023globalappsecdublin.sched.com/speaker/luca.compagna?iframe=yes&w=100%&sidebar=yes&bg=no) will talk about the project at the next [OWASP AppSec Dublin](https://dublin.globalappsec.org) <br>
 When: Thursday February 16, 2023 10:30am - 11:30am GMT <br>
 Where: Liffey Meeting Room 2 <br>
+<a href="https://owasp.org/www-chapter-italy/"><img src="https://www.theccd.ie/media/event_listing/owasp_global_appsec.png" alt="AppSec Dublin"/></a>
 <p align="center">
-  <img src="https://www.theccd.ie/media/event_listing/owasp_global_appsec.png"><br>
+  <img src=""><br>
 </p>
 
 ## Publications
