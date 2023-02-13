@@ -89,7 +89,7 @@ When: Thursday February 16, 2023 10:30am - 11:30am GMT <br>
 Where: Liffey Meeting Room 2 <br>
 <br>
 <p align="center">
-<a href="https://dublin.globalappsec.org"><img src="https://www.theccd.ie/media/event_listing/owasp_global_appsec.png" alt="AppSec Dublin"/></a>
+<a href="https://dublin.globalappsec.org"><img src="/assets/images/owasp_global_appsec.png" alt="AppSec Dublin"/></a>
 </p>
 
 ## Publications
@@ -101,7 +101,7 @@ This project received funding from the European Union's Horizon 2020 research an
 
 <br>
 <p align="center">
-<a href="https://testable.eu"><img src="https://testable.eu/img/eu_flag.png" alt="EU Flag"/></a>
+<a href="https://testable.eu"><img src="/assets/images/eu_flag.png" alt="EU Flag"/></a>
 </p>
 
 
