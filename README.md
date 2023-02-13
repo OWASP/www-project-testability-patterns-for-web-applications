@@ -6,18 +6,18 @@ This repository contains the markdown / container for the OWASP Testability Patt
 
 The OWASP Testability Patterns project intends to create a community to re-design the classical secure development life-cycle around the concept of **Testability Patterns**, providing new tools for Web and AI/ML developers, managers, and security teams. In summary, the project aims to:
 
-- curate a catalog of testability patterns for code analysis tools (that can act as a benchmark for them).
-- create a framework that can automatically identify testability patterns in real-world software, and can run the patterns' benchmark against code analyis tools. 
+- Curate a ***catalog of testability patterns** for security testing tools (i.e., a security testing tool benchmark).
+- Create a framework that can automatically ***identify testability patterns in programs**, and can ***run the patterns' benchmark against testing tools***. 
 
 
 ## What is a Testability Pattern?
 
-**Testability Patterns** (TPs) are problematic code instructions that affect the capability of code analysis tools for security testing. Due to TPs, SAST tools may not detect an existing vulnerability, or conversely, report a false alarm. This project intends to create a catalog of testability patterns. 
+**Testability Patterns** (TPs) are problematic code instructions that affect the capability of security testing tools. Due to TPs, security testing tools may miss vulnerabilities, or conversely, report a false alarm. This project intends to create a catalog of testability patterns. 
 
 
-## TP-Catalogs: Testability Pattern Catalogs for SAST
+## TP-Catalogs: Testability Patterns Catalog
 
-This repository includes the catalogs of SAST testability patterns. At the time being, it supports the following programming languages:
+This repository includes the catalogs of testability patterns. Currently, the project focuses on testability patterns affecting static analysis security testing tools (SAST) and it currently supports the following programming languages:
 
 - Java
 - PHP
@@ -47,11 +47,12 @@ The repository is available at: [https://github.com/testable-eu/sast-tp-framewor
 
 ## How you can contribute?
 
-Found a code snippet affecting a SAST tool? Join and contribute to our catalog. 
+You can join our nascent community and help the project in different ways:
 
-Want to test your SAST tools against our catalog? Extend [TP-Framework](https://github.com/testable-eu/sast-tp-framework) to support your tool. 
+1. Found a code snippet affecting a SAST tool? Join and contribute to our catalog. 
+2. Want to test your SAST tools against our catalog? Extend [TP-Framework](https://github.com/testable-eu/sast-tp-framework) to support your tool. 
 
-Need some help? Please visit our contribution guidelines [here](https://github.com/testable-eu/sast-testability-patterns/blob/master/docs/contribution-guidelines.md).
+Contribution guidelines are [here](https://github.com/testable-eu/sast-testability-patterns/blob/master/docs/contribution-guidelines.md).
 
 
 ## Vision
@@ -72,7 +73,6 @@ The application of standard business practices to building software applications
 - September 2023: 
 - September 2024: Release of the TESTABLE Standard Document
 - Later 2024: Active and self sustained community
-
 
 ## Next Talk: OWASP AppSec Dublin 16th February
 [Luca Compagna](https://owasp2023globalappsecdublin.sched.com/speaker/luca.compagna?iframe=yes&w=100%&sidebar=yes&bg=no) will talk about the project at the next [OWASP AppSec Dublin](https://dublin.globalappsec.org) <br>
@@ -95,5 +95,7 @@ This project received funding from the European Union's Horizon 2020 research an
 <a href="https://testable.eu"><img src="/assets/images/eu_flag.png" alt="EU Flag"/></a>
 </p>
 
+## Project partners
 
+(LIST ALL PARTNERS)
 
