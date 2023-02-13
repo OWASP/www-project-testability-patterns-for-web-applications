@@ -1,17 +1,8 @@
----
-layout: col-sidebar
-title: OWASP Testability Patterns for Web Applications
-tags: home
-level: 2
-type: 
-pitch: TestabiliTy Pattern-driven Web Application Security and Privacy Testing
-
----
-
+# OWASP Testability Patterns for Web Applications
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-# OWASP Testability Patterns for Web Applications
+This repository contains the markdown / container for the OWASP Testability Patterns for Web Applications. 
 
 The OWASP Testability Patterns project intends to create a community to re-design the classical secure development life-cycle around the concept of **Testability Patterns**, providing new tools for Web and AI/ML developers, managers, and security teams. In summary, the project aims to:
 
@@ -115,4 +106,6 @@ This project received funding from the European Union's Horizon 2020 research an
 <p align="center">
 <a href="https://testable.eu"><img src="/assets/images/eu_flag.png" alt="EU Flag"/></a>
 </p>
+
+
 
