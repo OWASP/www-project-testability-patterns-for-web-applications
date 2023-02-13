@@ -6,8 +6,8 @@ This repository contains the markdown / container for the OWASP Testability Patt
 
 The OWASP Testability Patterns project intends to create a community to re-design the classical secure development life-cycle around the concept of **Testability Patterns**, providing new tools for Web and AI/ML developers, managers, and security teams. In summary, the project aims to:
 
-- Curate a ***catalog of testability patterns** for security testing tools (i.e., a security testing tool benchmark).
-- Create a framework that can automatically ***identify testability patterns in programs**, and can ***run the patterns' benchmark against testing tools***. 
+- Curate a ***catalog of testability patterns*** for security testing tools (i.e., a security testing tool benchmark).
+- Create a framework that can automatically ***identify testability patterns in programs***, and can ***run the patterns' benchmark against testing tools***. 
 
 
 ## What is a Testability Pattern?
@@ -17,7 +17,7 @@ The OWASP Testability Patterns project intends to create a community to re-desig
 
 ## TP-Catalogs: Testability Patterns Catalog
 
-This repository includes the catalogs of testability patterns. Currently, the project focuses on testability patterns affecting static analysis security testing tools (SAST) and it currently supports the following programming languages:
+This repository includes the catalogs of testability patterns. Currently, the project focuses on testability patterns affecting static analysis security testing tools (SAST) and it supports the following programming languages:
 
 - Java
 - PHP
@@ -86,6 +86,18 @@ Where: Liffey Meeting Room 2 <br>
 ## Publications
 To see the complete list of publications, please visit [https://testable.eu/publications/](https://testable.eu/publications/).
 
+## Project partners
+
+- [CISPA](https://cispa.de/)
+- [Eurecom](https://www.eurecom.fr/en/)
+- [Technical University of Braunschweig](https://www.tu-braunschweig.de/)
+- [UC3M](https://www.uc3m.es/)
+- [SAP SE](https://www.sap.com/)
+- [ShiftLeft](https://www.shiftleft.io/)
+- [IMQ Minded Security](https://mindedsecurity.com/)
+- [NortonLifeLock](https://www.nortonlifelock.com/)
+- [Pluribus One](https://www.pluribus-one.it/)
+
 ## Acknowledgements
 
 This project received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 101019206.
@@ -95,7 +107,5 @@ This project received funding from the European Union's Horizon 2020 research an
 <a href="https://testable.eu"><img src="/assets/images/eu_flag.png" alt="EU Flag"/></a>
 </p>
 
-## Project partners
 
-(LIST ALL PARTNERS)
 
