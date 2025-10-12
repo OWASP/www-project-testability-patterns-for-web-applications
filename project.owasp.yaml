@@ -1,0 +1,37 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Matteo Meucci
+    email: mattea.meucci@owasp.org
+    github: MatOwasp
+level: 2
+license:
+  - Apache-2.0
+  - GPL-2.0
+name: OWASP Testability Patterns for Web Applications
+pitch: TestabiliTy Pattern-driven Web Application Security and Privacy Testing
+repositories:
+  - name: www-project-testability-patterns-for-web-applications
+    url: https://github.com/OWASP/www-project-testability-patterns-for-web-applications
+    description: OWASP Foundation Web Repository
+  - name: BenchmarkJava
+    url: https://github.com/testable-eu/BenchmarkJava
+    description: OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web
+      app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it
+      is fully runnable and all the vulnerabilities are actually exploit
+  - name: SAST
+    url: https://github.com/testable-eu/SAST
+    description: SAST tool interfaces
+  - name: sast-testability-patterns
+    url: https://github.com/testable-eu/sast-testability-patterns
+    description: Testability Pattern Catalogs for SAST
+  - name: sast-tp-framework
+    url: https://github.com/testable-eu/sast-tp-framework
+    description: 'TP-Framework: Testability Pattern Framework for SAST'
+tags:
+  - home
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-testability-patterns-for-web-applications
